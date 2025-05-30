@@ -1,3 +1,2 @@
-# Это будет огромный текст
-## Это будет поменьше
-###### Это будет маленький текст
+## Как это выглядит?
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
