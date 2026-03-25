@@ -18,7 +18,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-# Finish
+### Finish
 
 _Congratulations friend, you've completed this course!_
 
